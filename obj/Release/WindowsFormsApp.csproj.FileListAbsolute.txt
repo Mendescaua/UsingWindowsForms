@@ -1,0 +1,16 @@
+C:\Users\cauam\OneDrive\Documentos\MeusArquivos\Alura\Csharp\WindowsForm\WindowsFormsApp\bin\Release\WindowsFormsApp.exe.config
+C:\Users\cauam\OneDrive\Documentos\MeusArquivos\Alura\Csharp\WindowsForm\WindowsFormsApp\bin\Release\WindowsFormsApp.exe
+C:\Users\cauam\OneDrive\Documentos\MeusArquivos\Alura\Csharp\WindowsForm\WindowsFormsApp\bin\Release\WindowsFormsApp.pdb
+C:\Users\cauam\OneDrive\Documentos\MeusArquivos\Alura\Csharp\WindowsForm\WindowsFormsApp\obj\Release\WindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\cauam\OneDrive\Documentos\MeusArquivos\Alura\Csharp\WindowsForm\WindowsFormsApp\obj\Release\WindowsFormsApp.Form_ChangeLabel.resources
+C:\Users\cauam\OneDrive\Documentos\MeusArquivos\Alura\Csharp\WindowsForm\WindowsFormsApp\obj\Release\WindowsFormsApp.Form_Detk.resources
+C:\Users\cauam\OneDrive\Documentos\MeusArquivos\Alura\Csharp\WindowsForm\WindowsFormsApp\obj\Release\WindowsFormsApp.Form_Home.resources
+C:\Users\cauam\OneDrive\Documentos\MeusArquivos\Alura\Csharp\WindowsForm\WindowsFormsApp\obj\Release\WindowsFormsApp.KeyValue.resources
+C:\Users\cauam\OneDrive\Documentos\MeusArquivos\Alura\Csharp\WindowsForm\WindowsFormsApp\obj\Release\WindowsFormsApp.Form_Mascara.resources
+C:\Users\cauam\OneDrive\Documentos\MeusArquivos\Alura\Csharp\WindowsForm\WindowsFormsApp\obj\Release\WindowsFormsApp.Form_ValidaCpf.resources
+C:\Users\cauam\OneDrive\Documentos\MeusArquivos\Alura\Csharp\WindowsForm\WindowsFormsApp\obj\Release\WindowsFormsApp.ValidaSenha.resources
+C:\Users\cauam\OneDrive\Documentos\MeusArquivos\Alura\Csharp\WindowsForm\WindowsFormsApp\obj\Release\WindowsFormsApp.Properties.Resources.resources
+C:\Users\cauam\OneDrive\Documentos\MeusArquivos\Alura\Csharp\WindowsForm\WindowsFormsApp\obj\Release\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\cauam\OneDrive\Documentos\MeusArquivos\Alura\Csharp\WindowsForm\WindowsFormsApp\obj\Release\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\cauam\OneDrive\Documentos\MeusArquivos\Alura\Csharp\WindowsForm\WindowsFormsApp\obj\Release\WindowsFormsApp.exe
+C:\Users\cauam\OneDrive\Documentos\MeusArquivos\Alura\Csharp\WindowsForm\WindowsFormsApp\obj\Release\WindowsFormsApp.pdb
